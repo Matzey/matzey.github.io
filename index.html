@@ -1,7 +1,16 @@
 <!DOCTYPE html>
 <html>
     <body>
-        <h1>Hello World</h1>
-        <p>I'm hosted with GitHub Pages.</p>
+        <h1>GymLogger 'API'</h1>
+        <button id="switchToWorkouts">Workouts</button>
+        <button id="switchToNews">News</button>
+        <script>
+            document.getElementById('switchToWorkouts').addEventListener('click', function() {
+                window.location.href = 'workouts.json'
+            });
+            document.getElementById('switchToNews').addEventListener('click', function() {
+                window.location.href = 'news.json'
+            });
+        </script>
     </body>
 </html>
