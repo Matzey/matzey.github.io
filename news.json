@@ -1,11 +1,12 @@
 {
-    "news" : [
+    "news": [
         {
             "id": "",
             "title": "",
             "date": "",
             "author": "",
-            "content": ""
+            "content": "",
+            "show": ""
         }
     ]
 }
