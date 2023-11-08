@@ -1,20 +1,22 @@
 <!DOCTYPE html>
 <html>
-    <body>
-        <h1>GymLogger 'API'</h1>
-        <button id="switchToWorkouts">Workouts</button>
-        <button id="switchToNews">News</button>
-        <button id="switchToStudies">Studies</button>
-        <script>
-            document.getElementById('switchToWorkouts').addEventListener('click', function() {
-                window.location.href = 'workouts.json'
-            });
-            document.getElementById('switchToNews').addEventListener('click', function() {
-                window.location.href = 'news.json'
-            });
-            document.getElementById('switchToStudies').addEventListener('click', function() {
-                window.location.href = 'studies.json'
-            });
-        </script>
-    </body>
+
+<body>
+    <h1>GymLogger 'API'</h1>
+    <button id="switchToExercises">Exercises</button>
+    <button id="switchToNews">News</button>
+    <button id="switchToStudies">Studies</button>
+    <script>
+        document.getElementById('switchToExercises').addEventListener('click', function () {
+            window.location.href = 'exercises.json'
+        });
+        document.getElementById('switchToNews').addEventListener('click', function () {
+            window.location.href = 'news.json'
+        });
+        document.getElementById('switchToStudies').addEventListener('click', function () {
+            window.location.href = 'studies.json'
+        });
+    </script>
+</body>
+
 </html>
