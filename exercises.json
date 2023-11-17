@@ -11,6 +11,50 @@
         {
             "name": "Lat Pulldowns",
             "gif_url": ""
+        },
+        {
+            "name": "Front Lunges",
+            "gif_url": ""
+        },
+        {
+            "name": "Dumbbell Goblet Squats",
+            "gif_url": ""
+        },
+        {
+            "name": "Leg Extension",
+            "gif_url": ""
+        },
+        {
+            "name": "Leg Curls",
+            "gif_url": ""
+        },
+        {
+            "name": "Bike",
+            "gif_url": ""
+        },
+        {
+            "name": "Zottmann Curls",
+            "gif_url": ""
+        },
+        {
+            "name": "Dumbbell Front Raise",
+            "gif_url": ""
+        },
+        {
+            "name": "Single Arm Tricep Extensions",
+            "gif_url": ""
+        },
+        {
+            "name": "Seated Shoulder Press",
+            "gif_url": ""
+        },
+        {
+            "name": "Rowing",
+            "gif_url": ""
+        },
+        {
+            "name": "Bench Press",
+            "gif_url": ""
         }
     ]
 }
