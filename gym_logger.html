@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Matzey</title>
+    <link rel="stylesheet" type="text/css" href="style.css" />
+</head>
+<body class=main-background>
+    <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a class=active href="gym_logger.html">Gym Logger</a></li>
+    </ul>
+    <h1><u>Gym Logger:</u></h1>
+    <a class="size-medium"> Datasources: </a>
+    <div class="flex-container">
+        <button class="primary-button" id="switchToExercises">Exercises</button>
+        <button class="primary-button" id="switchToNews">News</button>
+        <button class="primary-button" id="switchToStudies">Studies</button>
+    </div>
+
+
+    
+    <script>
+        document.getElementById('switchToExercises').addEventListener('click', function () {
+            window.location.href = 'exercises.json'
+        });
+        document.getElementById('switchToNews').addEventListener('click', function () {
+            window.location.href = 'news.json'
+        });
+        document.getElementById('switchToStudies').addEventListener('click', function () {
+            window.location.href = 'studies.json'
+        });
+    </script>
+</body>
+
+</html>
