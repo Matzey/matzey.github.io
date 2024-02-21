@@ -2,59 +2,73 @@
     "exercises": [
         {
             "name": "Bicep Curls",
-            "gif_url": ""
+            "gif_url": "",
+            "isTimeBased": "false",
         },
         {
             "name": "Hammer Curls",
-            "gif_url": ""
+            "gif_url": "",
+            "isTimeBased": "false",
         },
         {
             "name": "Lat Pulldowns",
-            "gif_url": ""
+            "gif_url": "",
+            "isTimeBased": "false",
         },
         {
             "name": "Front Lunges",
-            "gif_url": ""
+            "gif_url": "",
+            "isTimeBased": "false",
         },
         {
             "name": "Dumbbell Goblet Squats",
-            "gif_url": ""
+            "gif_url": "",
+            "isTimeBased": "false",
         },
         {
             "name": "Leg Extension",
-            "gif_url": ""
+            "gif_url": "",
+            "isTimeBased": "false",
         },
         {
             "name": "Leg Curls",
-            "gif_url": ""
+            "gif_url": "",
+            "isTimeBased": "false",
         },
         {
             "name": "Bike",
-            "gif_url": ""
+            "gif_url": "",
+            "isTimeBased": "true",
         },
         {
             "name": "Zottmann Curls",
-            "gif_url": ""
+            "gif_url": "",
+            "isTimeBased": "false",
         },
         {
             "name": "Dumbbell Front Raise",
-            "gif_url": ""
+            "gif_url": "",
+            "isTimeBased": "false",
         },
         {
             "name": "Single Arm Tricep Extensions",
-            "gif_url": ""
+            "gif_url": "",
+            "isTimeBased": "false",
         },
         {
             "name": "Seated Shoulder Press",
-            "gif_url": ""
+            "gif_url": "",
+            "isTimeBased": "false",
         },
         {
             "name": "Rowing",
-            "gif_url": ""
+            "gif_url": "",
+            "isTimeBased": "true",
         },
         {
             "name": "Bench Press",
-            "gif_url": ""
+            "gif_url": "",
+            "isTimeBased": "false",
         }
     ]
 }
